@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya shibu dhanaya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **arya.shibu.dhanya1200@gmail.com**
 
