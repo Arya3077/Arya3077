@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Arya Shibu — a passionate Web Developer and lifelong learner from India. I love building interactive, user-friendly websites and applications that solve real-world problems.<br><br>MY Interests <br><br>🌐 Web Development (HTML, CSS, JavaScript, React)<br><br>🔥 Backend with Firebase (Authentication, Hosting)<br><br>🎨 UI/UX design with a creative twist<br><br>☁️ Exploring cloud tools & deployment<br><br>🚀 Constantly learning and open to collaboration
+Hi, I'm Arya Shibu — a passionate Web Developer and lifelong learner from India. I love building interactive, user-friendly websites and applications that solve real-world problems.<br><br>MY Interests <br><br>🌐 Web Development (HTML, CSS, JavaScript, React)<br><br>🎨 UI/UX design with a creative twist<br><br>☁️ Exploring cloud tools & deployment<br><br>🚀 Constantly learning and open to collaboration
 
 
 ## 🌐 Socials:
