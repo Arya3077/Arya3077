@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 Frontend Developer | React, Next.js & TypeScript
-Building user-focused web products | BTech CSE
+Building user-focused web products 
 --------------------------------------------
 
 I’m a web developer who enjoys building clean, interactive, and user-focused web experiences.
