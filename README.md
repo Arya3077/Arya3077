@@ -8,6 +8,6 @@ Hey, I'm Arya 👋<br>Frontend Developer · React · Next.js · TypeScript<br><b
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arya3077&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Arya3077&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Arya3077&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Arya3077&langs_count=4&theme=dark_github)]
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Arya3077&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Arya3077&langs_count=4&theme=dark_github)
 
 
